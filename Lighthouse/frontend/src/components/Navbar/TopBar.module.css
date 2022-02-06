@@ -1,0 +1,10 @@
+.navTabBar {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+	height: 50px;
+}
+.whiteText {
+	margin-top: auto;
+	margin-bottom: auto;
+}

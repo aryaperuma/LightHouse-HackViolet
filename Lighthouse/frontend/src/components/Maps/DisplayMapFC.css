@@ -1,0 +1,64 @@
+.marker-info-container {
+	display: flex;
+	justify-content: space-around;
+	margin: 1vw;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.marker-info-container_IonItem {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin: 1vw;
+}
+
+.marker-info-container_IonItem img {
+	height: 50px;
+	width: 50px;
+}
+
+.map-container {
+	height: calc(100vh - 150px);
+	overflow: hidden;
+}
+
+.form-button-container {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+.form-input-container {
+	display: flex;
+	justify-content: space-around;
+}
+.form-input {
+	width: 45vw;
+}
+.form-input-title {
+	font-size: large;
+	margin: 10px;
+}
+
+.bottom-bar-buttons-container {
+	height: 50px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	padding: 5px;
+}
+
+.bottom-bar-marker-info-ion-icon {
+	width: 33%;
+	font-size: 0.6rem;
+	display: flex;
+}
+
+.bottom-bar-marker-info-container {
+	height: 50px;
+	width: 100%;
+	display: flex;
+}

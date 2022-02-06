@@ -1,0 +1,14 @@
+run python map_api.py
+
+then do post requests
+
+/assig
+	arguments:
+		1)latitude
+		2)longitude
+	return node number and neighbours
+
+/det
+	arguments:
+		1)name
+	return neighbours

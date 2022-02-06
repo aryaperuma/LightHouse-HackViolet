@@ -1,0 +1,7 @@
+{
+  "name": "wayfer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,1206 @@
+[
+	{
+		"sl": 0,
+		"place": "Acharya Prafulla Chandra Road/Mahatma Gandhi Road",
+		"jf": 0.38794,
+		"lat": 22.58191,
+		"lng": 88.37425
+	},
+	{
+		"sl": 1,
+		"place": "Beliaghata Main Road",
+		"jf": 1.58745,
+		"lat": 22.56509,
+		"lng": 88.37079
+	},
+	{
+		"sl": 2,
+		"place": "Lenin Sarani/Dr Lal Mohan Bhattachrjee Road",
+		"jf": 0,
+		"lat": 22.55989,
+		"lng": 88.37312
+	},
+	{
+		"sl": 3,
+		"place": "Mother Teresa Sarani/Park Street",
+		"jf": 3.89718,
+		"lat": 22.55381,
+		"lng": 88.3517
+	},
+	{
+		"sl": 4,
+		"place": "Shakespeare Sarani",
+		"jf": 3.39851,
+		"lat": 22.54443,
+		"lng": 88.35799
+	},
+	{
+		"sl": 5,
+		"place": "Circus Avenue/A. J. C. Bose Road",
+		"jf": 0.40956,
+		"lat": 22.54254,
+		"lng": 88.35996
+	},
+	{
+		"sl": 6,
+		"place": "Munshi Premchand Sarani/Esplanade Park Street/Karl Marx Sarani",
+		"jf": 0.8,
+		"lat": 22.54699,
+		"lng": 88.32947
+	},
+	{
+		"sl": 7,
+		"place": "Belvedere Road",
+		"jf": 0.83767,
+		"lat": 22.52663,
+		"lng": 88.3351
+	},
+	{
+		"sl": 8,
+		"place": "Roland Ross Road/Debendralal Khan Road",
+		"jf": 0.49458,
+		"lat": 22.53536,
+		"lng": 88.33884
+	},
+	{
+		"sl": 9,
+		"place": "Rowlando Road/Acharya Jagadish Chandra Bose Road",
+		"jf": 0.79586,
+		"lat": 22.54112,
+		"lng": 88.35579
+	},
+	{
+		"sl": 10,
+		"place": "Harish Mukherjee Road/Gerashim Lebedeff Sarani",
+		"jf": 0.47906,
+		"lat": 22.52628,
+		"lng": 88.34377
+	},
+	{
+		"sl": 11,
+		"place": "Chowringhee Road",
+		"jf": 0,
+		"lat": 22.54151,
+		"lng": 88.34729
+	},
+	{
+		"sl": 12,
+		"place": "Sarat Bose Road",
+		"jf": 0,
+		"lat": 22.53924,
+		"lng": 88.35467
+	},
+	{
+		"sl": 13,
+		"place": "Acharya Jagadish Chandra Bose Road",
+		"jf": 0,
+		"lat": 22.54123,
+		"lng": 88.35363
+	},
+	{
+		"sl": 14,
+		"place": "Acharya Jagadish Chandra Bose Road E",
+		"jf": 0,
+		"lat": 22.54123,
+		"lng": 88.35363
+	},
+	{
+		"sl": 15,
+		"place": "P. G. Kar Road/Bidhan Sarani/Bhupe Bose Avenue",
+		"jf": 3.13725,
+		"lat": 22.59801,
+		"lng": 88.37215
+	},
+	{
+		"sl": 16,
+		"place": "Sri Aurobindo Sarani",
+		"jf": 3.33333,
+		"lat": 22.59508,
+		"lng": 88.36803
+	},
+	{
+		"sl": 17,
+		"place": "Avedananda Road/Beadon Street",
+		"jf": 2.09274,
+		"lat": 22.58975,
+		"lng": 88.36573
+	},
+	{
+		"sl": 18,
+		"place": "Vivekananda Road",
+		"jf": 3.94133,
+		"lat": 22.58587,
+		"lng": 88.36631
+	},
+	{
+		"sl": 19,
+		"place": "Gas Street/Keshab Chandra Sen Street",
+		"jf": 1.22653,
+		"lat": 22.57754,
+		"lng": 88.37018
+	},
+	{
+		"sl": 20,
+		"place": "Suryasen Street",
+		"jf": 3.95394,
+		"lat": 22.57355,
+		"lng": 88.36501
+	},
+	{
+		"sl": 21,
+		"place": "Mahatma Gandhi Road/Acharya Jagadish Chandra Bose Road",
+		"jf": 0,
+		"lat": 22.54123,
+		"lng": 88.35363
+	},
+	{
+		"sl": 22,
+		"place": "Madan Mohan Burman Street/Keshab Chandra Sen Street/College Street",
+		"jf": 4.10989,
+		"lat": 22.57787,
+		"lng": 88.36899
+	},
+	{
+		"sl": 23,
+		"place": "Vivekananda Road",
+		"jf": 2.05128,
+		"lat": 22.58587,
+		"lng": 88.36631
+	},
+	{
+		"sl": 24,
+		"place": "Beadon Street/Avedananda Road",
+		"jf": 4.64039,
+		"lat": 22.58975,
+		"lng": 88.36573
+	},
+	{
+		"sl": 25,
+		"place": "Sri Aurobindo Sarani",
+		"jf": 3.21839,
+		"lat": 22.59508,
+		"lng": 88.36803
+	},
+	{
+		"sl": 26,
+		"place": "P. G. Kar Road/Bhupe Bose Avenue/Acharya Prafulla Chandra Road",
+		"jf": 4.81632,
+		"lat": 22.58191,
+		"lng": 88.37425
+	},
+	{
+		"sl": 27,
+		"place": "Karl Marx Sarani",
+		"jf": 1.21212,
+		"lat": 22.53965,
+		"lng": 88.32361
+	},
+	{
+		"sl": 28,
+		"place": "Dent Mission Road/National Library Avenue",
+		"jf": 2.22222,
+		"lat": 22.53312,
+		"lng": 88.33035
+	},
+	{
+		"sl": 29,
+		"place": "Judge'S Court Road/Meharali Mondal Street/Braun Field Row",
+		"jf": 2.85714,
+		"lat": 22.52757,
+		"lng": 88.32489
+	},
+	{
+		"sl": 30,
+		"place": "Remount Road",
+		"jf": 4.28571,
+		"lat": 22.52496,
+		"lng": 88.32275
+	},
+	{
+		"sl": 31,
+		"place": "Burdwan Road",
+		"jf": 2.96296,
+		"lat": 22.52213,
+		"lng": 88.32784
+	},
+	{
+		"sl": 32,
+		"place": "Raja Santosh Road",
+		"jf": 3.67816,
+		"lat": 22.51803,
+		"lng": 88.32921
+	},
+	{
+		"sl": 33,
+		"place": "S. N. Roy Road",
+		"jf": 3.74999,
+		"lat": 22.50645,
+		"lng": 88.33085
+	},
+	{
+		"sl": 34,
+		"place": "Banamali Naskar Road",
+		"jf": 3.88888,
+		"lat": 22.50481,
+		"lng": 88.31526
+	},
+	{
+		"sl": 35,
+		"place": "Rav Bahadur A. C. Roy Road",
+		"jf": 4.71428,
+		"lat": 22.66532,
+		"lng": 88.42837
+	},
+	{
+		"sl": 36,
+		"place": "Bramha Samaj Road",
+		"jf": 2.29753,
+		"lat": 22.54583,
+		"lng": 88.28335
+	},
+	{
+		"sl": 37,
+		"place": "Biren Roy Road/Raja Rammohan Roy Road",
+		"jf": 1.36346,
+		"lat": 22.48861,
+		"lng": 88.32777
+	},
+	{
+		"sl": 38,
+		"place": "Parama Circle",
+		"jf": 0,
+		"lat": 22.54277,
+		"lng": 88.39865
+	},
+	{
+		"sl": 39,
+		"place": "Topsia Road",
+		"jf": 0,
+		"lat": 22.53368,
+		"lng": 88.38467
+	},
+	{
+		"sl": 40,
+		"place": "Chandra Nath Roy Road/Garden Picnic Road",
+		"jf": 2.07378,
+		"lat": 22.53047,
+		"lng": 88.38591
+	},
+	{
+		"sl": 41,
+		"place": "Rajdanga Main Road",
+		"jf": 0,
+		"lat": 22.51059,
+		"lng": 88.39763
+	},
+	{
+		"sl": 42,
+		"place": "Purbachal Canal South Road",
+		"jf": 0,
+		"lat": 22.50771,
+		"lng": 88.3997
+	},
+	{
+		"sl": 43,
+		"place": "Purbachal Kalitala Road",
+		"jf": 2.92682,
+		"lat": 22.50499,
+		"lng": 88.39855
+	},
+	{
+		"sl": 44,
+		"place": "Prince Anwar Shah Road",
+		"jf": 6.85714,
+		"lat": 22.5021,
+		"lng": 88.36063
+	},
+	{
+		"sl": 45,
+		"place": "Kalikapur Road/Netaji Nagar",
+		"jf": 3.4188,
+		"lat": 22.48218,
+		"lng": 88.3556
+	},
+	{
+		"sl": 46,
+		"place": "South Twenty Four Parganas (South)",
+		"jf": 0,
+		"lat": 22.49205,
+		"lng": 88.37881
+	},
+	{
+		"sl": 47,
+		"place": "Survey Park Rd/Ajay Nagar More",
+		"jf": 0,
+		"lat": 22.49267,
+		"lng": 88.39122
+	},
+	{
+		"sl": 48,
+		"place": "Bhukailash Road/Circular Garden Reach Road/Hemchndra Street",
+		"jf": 5.55844,
+		"lat": 22.54566,
+		"lng": 88.29466
+	},
+	{
+		"sl": 49,
+		"place": "Diamond Harbour Road",
+		"jf": 4.10989,
+		"lat": 22.51554,
+		"lng": 88.32298
+	},
+	{
+		"sl": 50,
+		"place": "Kabitirtha Sarani/Watgunge Street",
+		"jf": 4.97744,
+		"lat": 22.54364,
+		"lng": 88.32432
+	},
+	{
+		"sl": 51,
+		"place": "Acharya Jagadish Chandra Bose Road/Munshi Premchand Sarani",
+		"jf": 2.85524,
+		"lat": 22.54123,
+		"lng": 88.35363
+	},
+	{
+		"sl": 52,
+		"place": "Circus Avenue",
+		"jf": 3.14159,
+		"lat": 22.53534,
+		"lng": 88.36918
+	},
+	{
+		"sl": 53,
+		"place": "Shakespeare Sarani",
+		"jf": 3.14159,
+		"lat": 22.54443,
+		"lng": 88.35799
+	},
+	{
+		"sl": 54,
+		"place": "A. J. C. Bose Road",
+		"jf": 3.14159,
+		"lat": 22.5457,
+		"lng": 88.36108
+	},
+	{
+		"sl": 55,
+		"place": "Rafi Ahmed Kidwai Road/Wood Street",
+		"jf": 3.74999,
+		"lat": 22.55302,
+		"lng": 88.35632
+	},
+	{
+		"sl": 56,
+		"place": "Jawaharlal Neharu Road",
+		"jf": 1.38918,
+		"lat": 22.55228,
+		"lng": 88.34953
+	},
+	{
+		"sl": 57,
+		"place": "Parama Circle",
+		"jf": 4.87625,
+		"lat": 22.54277,
+		"lng": 88.39865
+	},
+	{
+		"sl": 58,
+		"place": "Sonar Bangla Road",
+		"jf": 4.32646,
+		"lat": 22.54611,
+		"lng": 88.39693
+	},
+	{
+		"sl": 59,
+		"place": "Chrstopher Road",
+		"jf": 0,
+		"lat": 22.54564,
+		"lng": 88.38621
+	},
+	{
+		"sl": 60,
+		"place": "N Topsia Road/Kustia Road",
+		"jf": 0,
+		"lat": 22.53203,
+		"lng": 88.37931
+	},
+	{
+		"sl": 61,
+		"place": "Dr Biresh Guha Street",
+		"jf": 2.43027,
+		"lat": 22.53951,
+		"lng": 88.37046
+	},
+	{
+		"sl": 62,
+		"place": "Rifile Range Road",
+		"jf": 3.14159,
+		"lat": 22.53248,
+		"lng": 88.37281
+	},
+	{
+		"sl": 63,
+		"place": "Circus Avenue/Acharya Jagadish Chandra Bose Road",
+		"jf": 3.14159,
+		"lat": 22.5415,
+		"lng": 88.36207
+	},
+	{
+		"sl": 64,
+		"place": "Chowringhee Road",
+		"jf": 0.45977,
+		"lat": 22.54151,
+		"lng": 88.34729
+	},
+	{
+		"sl": 65,
+		"place": "A. J. C. Bose Road",
+		"jf": 1.73449,
+		"lat": 22.5457,
+		"lng": 88.36108
+	},
+	{
+		"sl": 66,
+		"place": "Mother Teresa Sarani/Park Street",
+		"jf": 3.07692,
+		"lat": 22.55381,
+		"lng": 88.3517
+	},
+	{
+		"sl": 67,
+		"place": "NH-2",
+		"jf": 9.05746,
+		"lat": 22.65358,
+		"lng": 88.36195
+	},
+	{
+		"sl": 68,
+		"place": "SH-1",
+		"jf": 4.68243,
+		"lat": 22.52422,
+		"lng": 88.36567
+	},
+	{
+		"sl": 69,
+		"place": "Rowlando Road",
+		"jf": 2.06399,
+		"lat": 22.53639,
+		"lng": 88.35657
+	},
+	{
+		"sl": 70,
+		"place": "Gerasim Lebedev Sarani/Cathedral Road Crossing",
+		"jf": 3.14159,
+		"lat": 22.54447,
+		"lng": 88.34587
+	},
+	{
+		"sl": 71,
+		"place": "Exide More",
+		"jf": 3.50877,
+		"lat": 22.54177,
+		"lng": 88.3473
+	},
+	{
+		"sl": 72,
+		"place": "Moira Street",
+		"jf": 4.47619,
+		"lat": 22.54328,
+		"lng": 88.35599
+	},
+	{
+		"sl": 73,
+		"place": "Dr U. N. Brahmachari Street",
+		"jf": 4.78341,
+		"lat": 22.54297,
+		"lng": 88.35591
+	},
+	{
+		"sl": 74,
+		"place": "Rawdon Street",
+		"jf": 0,
+		"lat": 22.54281,
+		"lng": 88.35774
+	},
+	{
+		"sl": 75,
+		"place": "Circus Avenue",
+		"jf": 5.07142,
+		"lat": 22.53534,
+		"lng": 88.36918
+	},
+	{
+		"sl": 76,
+		"place": "Circus Avenue",
+		"jf": 3.14159,
+		"lat": 22.53534,
+		"lng": 88.36918
+	},
+	{
+		"sl": 77,
+		"place": "B. C. Road",
+		"jf": 3.14159,
+		"lat": 22.49308,
+		"lng": 88.30814
+	},
+	{
+		"sl": 78,
+		"place": "Sarat Bose Road",
+		"jf": 3.14159,
+		"lat": 22.53924,
+		"lng": 88.35467
+	},
+	{
+		"sl": 79,
+		"place": "Exide More",
+		"jf": 8.86501,
+		"lat": 22.54177,
+		"lng": 88.3473
+	},
+	{
+		"sl": 80,
+		"place": "Cathedral Road Crossing",
+		"jf": 8.21393,
+		"lat": 22.54375,
+		"lng": 88.34528
+	},
+	{
+		"sl": 81,
+		"place": "SH-1/Rowlando Road",
+		"jf": 4.18271,
+		"lat": 22.53799,
+		"lng": 88.35841
+	},
+	{
+		"sl": 82,
+		"place": "Jessore Road",
+		"jf": 3.14159,
+		"lat": 22.61543,
+		"lng": 88.41188
+	},
+	{
+		"sl": 83,
+		"place": "Netaji Subhash Chandra Airport Road",
+		"jf": 3.14159,
+		"lat": 22.47951,
+		"lng": 88.35523
+	},
+	{
+		"sl": 84,
+		"place": "K. B. Sarani Road/Kaikhali Main Road",
+		"jf": 0.94921,
+		"lat": 22.62909,
+		"lng": 88.4265
+	},
+	{
+		"sl": 85,
+		"place": "Tegharia Main Road",
+		"jf": 0,
+		"lat": 22.62142,
+		"lng": 88.43605
+	},
+	{
+		"sl": 86,
+		"place": "Teghoria",
+		"jf": 0,
+		"lat": 22.62389,
+		"lng": 88.43523
+	},
+	{
+		"sl": 87,
+		"place": "Jyangra Road/Rajarhat Road",
+		"jf": 0,
+		"lat": 22.61488,
+		"lng": 88.43638
+	},
+	{
+		"sl": 88,
+		"place": "Vip Junction/Kistopur More",
+		"jf": 0,
+		"lat": 22.60263,
+		"lng": 88.42089
+	},
+	{
+		"sl": 89,
+		"place": "Dum Dum Park",
+		"jf": 0,
+		"lat": 22.61126,
+		"lng": 88.41142
+	},
+	{
+		"sl": 90,
+		"place": "Bangur Avenue",
+		"jf": 0,
+		"lat": 22.60809,
+		"lng": 88.41033
+	},
+	{
+		"sl": 91,
+		"place": "Lake Town Road/Newton Road",
+		"jf": 0,
+		"lat": 22.60043,
+		"lng": 88.40649
+	},
+	{
+		"sl": 92,
+		"place": "Eastern Metropolitan Bypass Road Flyover",
+		"jf": 1.60667,
+		"lat": 22.51497,
+		"lng": 88.40131
+	},
+	{
+		"sl": 93,
+		"place": "Kazi Nazrul Islam Avenue",
+		"jf": 0,
+		"lat": 22.64209,
+		"lng": 88.43119
+	},
+	{
+		"sl": 94,
+		"place": "Eastern Metropolitan Bypass Road",
+		"jf": 0,
+		"lat": 22.51497,
+		"lng": 88.40131
+	},
+	{
+		"sl": 95,
+		"place": "Ultadanga More",
+		"jf": 3.44083,
+		"lat": 22.59128,
+		"lng": 88.39301
+	},
+	{
+		"sl": 96,
+		"place": "Acharya Jagadish Chandra Bose Road",
+		"jf": 7.40659,
+		"lat": 22.54123,
+		"lng": 88.35363
+	},
+	{
+		"sl": 97,
+		"place": "SH-1",
+		"jf": 4.84249,
+		"lat": 22.52422,
+		"lng": 88.36567
+	},
+	{
+		"sl": 98,
+		"place": "Acharya Jagdish Chandra Bose Road Flyover",
+		"jf": 9.05162,
+		"lat": 22.54136,
+		"lng": 88.35376
+	},
+	{
+		"sl": 99,
+		"place": "A. J. C Bose Rd",
+		"jf": 8.65145,
+		"lat": 22.5457,
+		"lng": 88.36108
+	},
+	{
+		"sl": 100,
+		"place": "Eastern Metropolitan Bypass Road/Duttabad Road",
+		"jf": 4.28299,
+		"lat": 22.52221,
+		"lng": 88.39767
+	},
+	{
+		"sl": 101,
+		"place": "Kazi Nazrul Islam Avenue",
+		"jf": 0,
+		"lat": 22.64209,
+		"lng": 88.43119
+	},
+	{
+		"sl": 102,
+		"place": "Baguiati Highway",
+		"jf": 0,
+		"lat": 22.61037,
+		"lng": 88.42785
+	},
+	{
+		"sl": 103,
+		"place": "NH-34/Rajbari Colony",
+		"jf": 1.07524,
+		"lat": 22.6509,
+		"lng": 88.43542
+	},
+	{
+		"sl": 104,
+		"place": "Manikpur",
+		"jf": 0,
+		"lat": 22.64785,
+		"lng": 88.42673
+	},
+	{
+		"sl": 105,
+		"place": "Gate No 2",
+		"jf": 1.72471,
+		"lat": 22.64853,
+		"lng": 88.43475
+	},
+	{
+		"sl": 106,
+		"place": "Ital Gacha Road",
+		"jf": 4.63286,
+		"lat": 22.64342,
+		"lng": 88.42668
+	},
+	{
+		"sl": 107,
+		"place": "Baguiati Highway/Kazi Nazrul Islam Avenue",
+		"jf": 3.14159,
+		"lat": 22.60902,
+		"lng": 88.42704
+	},
+	{
+		"sl": 108,
+		"place": "Arabindo Sarani/Netaji Subhash Road",
+		"jf": 3.58974,
+		"lat": 22.69146,
+		"lng": 88.43621
+	},
+	{
+		"sl": 109,
+		"place": "Bora Bazar More",
+		"jf": 1.64408,
+		"lat": 22.63336,
+		"lng": 88.42357
+	},
+	{
+		"sl": 110,
+		"place": "Central Jail More",
+		"jf": 4.20408,
+		"lat": 22.63009,
+		"lng": 88.42138
+	},
+	{
+		"sl": 111,
+		"place": "K. C. Sen Gupta Sarani",
+		"jf": 4.10989,
+		"lat": 22.64698,
+		"lng": 88.43195
+	},
+	{
+		"sl": 112,
+		"place": "Dum Dum Road",
+		"jf": 1.33333,
+		"lat": 22.62274,
+		"lng": 88.4007
+	},
+	{
+		"sl": 113,
+		"place": "Khudjram Colony",
+		"jf": 1.42857,
+		"lat": 22.61821,
+		"lng": 88.41074
+	},
+	{
+		"sl": 114,
+		"place": "Gouri Nath Shastri Sarani",
+		"jf": 3.47826,
+		"lat": 22.6132,
+		"lng": 88.41414
+	},
+	{
+		"sl": 115,
+		"place": "Bangur Avenue More",
+		"jf": 3.14159,
+		"lat": 22.61126,
+		"lng": 88.40925
+	},
+	{
+		"sl": 116,
+		"place": "Lake Town More",
+		"jf": 1.46429,
+		"lat": 22.60014,
+		"lng": 88.40698
+	},
+	{
+		"sl": 117,
+		"place": "Swamiji Sarani/Goala Bagan More Lane",
+		"jf": 0.34393,
+		"lat": 22.61121,
+		"lng": 88.39731
+	},
+	{
+		"sl": 118,
+		"place": "Belgachia Road/Raja Manindra Road",
+		"jf": 0.7309,
+		"lat": 22.61127,
+		"lng": 88.38687
+	},
+	{
+		"sl": 119,
+		"place": "SH-1/Khidderpore Road",
+		"jf": 0.16715,
+		"lat": 22.55387,
+		"lng": 88.37194
+	},
+	{
+		"sl": 120,
+		"place": "Parama Circle",
+		"jf": 0,
+		"lat": 22.54277,
+		"lng": 88.39865
+	},
+	{
+		"sl": 121,
+		"place": "Sonar Bangla Road",
+		"jf": 2.68015,
+		"lat": 22.54611,
+		"lng": 88.39693
+	},
+	{
+		"sl": 122,
+		"place": "Dhapa Road",
+		"jf": 2.27642,
+		"lat": 22.54896,
+		"lng": 88.39663
+	},
+	{
+		"sl": 123,
+		"place": "Metropolitan Road",
+		"jf": 2.18008,
+		"lat": 22.55238,
+		"lng": 88.40627
+	},
+	{
+		"sl": 124,
+		"place": "Chingrighata Flyover",
+		"jf": 1.59343,
+		"lat": 22.55644,
+		"lng": 88.41205
+	},
+	{
+		"sl": 125,
+		"place": "Salt Lake Bypass Road/Canal South Road",
+		"jf": 2.55601,
+		"lat": 22.57091,
+		"lng": 88.42008
+	},
+	{
+		"sl": 126,
+		"place": "Choulpatty Rd",
+		"jf": 2.56889,
+		"lat": 22.56348,
+		"lng": 88.38309
+	},
+	{
+		"sl": 127,
+		"place": "Beliaghata Main Road/Broadway Rd",
+		"jf": 3.14159,
+		"lat": 22.56206,
+		"lng": 88.4083
+	},
+	{
+		"sl": 128,
+		"place": "Ga Block Saltlake City/Moulana Abul Kalam Azad Sarani",
+		"jf": 3.99421,
+		"lat": 22.57086,
+		"lng": 88.40112
+	},
+	{
+		"sl": 129,
+		"place": "115 Duttabad Road/Maniktala Main Road",
+		"jf": 3.14159,
+		"lat": 22.58029,
+		"lng": 88.39243
+	},
+	{
+		"sl": 130,
+		"place": "Duttabad Road",
+		"jf": 3.14159,
+		"lat": 22.58084,
+		"lng": 88.40396
+	},
+	{
+		"sl": 131,
+		"place": "Baghmari Road",
+		"jf": 3.66325,
+		"lat": 22.59026,
+		"lng": 88.39544
+	},
+	{
+		"sl": 132,
+		"place": "Eastern Metropolitan Bypass Road Flyover",
+		"jf": 2.09047,
+		"lat": 22.51497,
+		"lng": 88.40131
+	},
+	{
+		"sl": 133,
+		"place": "Lalbazar Street",
+		"jf": 3.41633,
+		"lat": 22.57281,
+		"lng": 88.35084
+	},
+	{
+		"sl": 134,
+		"place": "Murari Pukur/C I T Road",
+		"jf": 3.14159,
+		"lat": 22.55185,
+		"lng": 88.37135
+	},
+	{
+		"sl": 135,
+		"place": "P. W. D Road/R. N Chatterjee Rd",
+		"jf": 3.95061,
+		"lat": 22.51802,
+		"lng": 88.37953
+	},
+	{
+		"sl": 136,
+		"place": "Belgharia Expy",
+		"jf": 4.20408,
+		"lat": 22.65315,
+		"lng": 88.36496
+	},
+	{
+		"sl": 137,
+		"place": "Bidyayatan Sarani",
+		"jf": 3.7037,
+		"lat": 22.64922,
+		"lng": 88.36923
+	},
+	{
+		"sl": 138,
+		"place": "Dunlop More",
+		"jf": 3.33333,
+		"lat": 22.65257,
+		"lng": 88.37733
+	},
+	{
+		"sl": 139,
+		"place": "NH-34/Belgharia Expressway",
+		"jf": 2.37652,
+		"lat": 22.65288,
+		"lng": 88.3801
+	},
+	{
+		"sl": 140,
+		"place": "Old Jessore Road",
+		"jf": 4.33613,
+		"lat": 22.68197,
+		"lng": 88.46195
+	},
+	{
+		"sl": 141,
+		"place": "Haridada Biswas Sarani/Main Road",
+		"jf": 4.40384,
+		"lat": 22.68546,
+		"lng": 88.45244
+	},
+	{
+		"sl": 142,
+		"place": "Michel Nagar",
+		"jf": 4.46153,
+		"lat": 22.67601,
+		"lng": 88.44391
+	},
+	{
+		"sl": 143,
+		"place": "Bankra More",
+		"jf": 3.85964,
+		"lat": 22.66853,
+		"lng": 88.44473
+	},
+	{
+		"sl": 144,
+		"place": "M. B. Road",
+		"jf": 4.40025,
+		"lat": 22.50286,
+		"lng": 88.30152
+	},
+	{
+		"sl": 145,
+		"place": "Sarat Basu Lane",
+		"jf": 1.11547,
+		"lat": 22.65719,
+		"lng": 88.43639
+	},
+	{
+		"sl": 146,
+		"place": "Jessore Road",
+		"jf": 4.07225,
+		"lat": 22.61543,
+		"lng": 88.41188
+	},
+	{
+		"sl": 147,
+		"place": "Rani Rashniani Road",
+		"jf": 2.99319,
+		"lat": 22.65503,
+		"lng": 88.35939
+	},
+	{
+		"sl": 148,
+		"place": "Rani Rashniani Rd/P W D Road",
+		"jf": 1.3037,
+		"lat": 22.65503,
+		"lng": 88.35939
+	},
+	{
+		"sl": 149,
+		"place": "P W D Road",
+		"jf": 2.44444,
+		"lat": 22.65265,
+		"lng": 88.36548
+	},
+	{
+		"sl": 150,
+		"place": "Delhi Road/Swami Vivekananda Road",
+		"jf": 2.11508,
+		"lat": 22.66106,
+		"lng": 88.42115
+	},
+	{
+		"sl": 151,
+		"place": "Netaji Subhash Chandra Bose Circle",
+		"jf": 6.54658,
+		"lat": 22.65398,
+		"lng": 88.36207
+	},
+	{
+		"sl": 152,
+		"place": "Delhi Road/Swami Vivekananda Road",
+		"jf": 5.83673,
+		"lat": 22.66106,
+		"lng": 88.42115
+	},
+	{
+		"sl": 153,
+		"place": "P. W. D Road/R. N Chatterjee Rd",
+		"jf": 4.47619,
+		"lat": 22.51802,
+		"lng": 88.37953
+	},
+	{
+		"sl": 154,
+		"place": "NH-34/Belgharia Expressway",
+		"jf": 4.22556,
+		"lat": 22.65288,
+		"lng": 88.3801
+	},
+	{
+		"sl": 155,
+		"place": "Elias Road",
+		"jf": 2.85714,
+		"lat": 22.68623,
+		"lng": 88.37186
+	},
+	{
+		"sl": 156,
+		"place": "S. S. Road",
+		"jf": 2.66666,
+		"lat": 22.68004,
+		"lng": 88.38006
+	},
+	{
+		"sl": 157,
+		"place": "Old Nimta Road",
+		"jf": 2.33333,
+		"lat": 22.66876,
+		"lng": 88.38191
+	},
+	{
+		"sl": 158,
+		"place": "Kamarhati More",
+		"jf": 3.57723,
+		"lat": 22.66375,
+		"lng": 88.3766
+	},
+	{
+		"sl": 159,
+		"place": "Nilgunj Road",
+		"jf": 5.57509,
+		"lat": 22.69465,
+		"lng": 88.37947
+	},
+	{
+		"sl": 160,
+		"place": "R. N. Tagore Road (South)",
+		"jf": 7.08755,
+		"lat": 22.63196,
+		"lng": 88.4019
+	},
+	{
+		"sl": 161,
+		"place": "Dunlop More",
+		"jf": 5.50199,
+		"lat": 22.65257,
+		"lng": 88.37733
+	},
+	{
+		"sl": 162,
+		"place": "B. T . Road Subhash Pally",
+		"jf": 4.32258,
+		"lat": 22.64842,
+		"lng": 88.37893
+	},
+	{
+		"sl": 163,
+		"place": "Behala Para Lane",
+		"jf": 4.62499,
+		"lat": 22.64405,
+		"lng": 88.37537
+	},
+	{
+		"sl": 164,
+		"place": "A. K. Mukherjee Road/Bagha Jatin Road",
+		"jf": 2.39316,
+		"lat": 22.63948,
+		"lng": 88.38435
+	},
+	{
+		"sl": 165,
+		"place": "Sinthee More",
+		"jf": 4.07936,
+		"lat": 22.63103,
+		"lng": 88.3785
+	},
+	{
+		"sl": 166,
+		"place": "S Sinthee Road",
+		"jf": 4.47619,
+		"lat": 22.62122,
+		"lng": 88.38909
+	},
+	{
+		"sl": 167,
+		"place": "Chiria More",
+		"jf": 5.42857,
+		"lat": 22.63562,
+		"lng": 88.43936
+	},
+	{
+		"sl": 168,
+		"place": "Lock Gate Road/Lock Gate Flyover",
+		"jf": 5.24423,
+		"lat": 22.61481,
+		"lng": 88.3773
+	},
+	{
+		"sl": 169,
+		"place": "Raja Manindra Road",
+		"jf": 5.0204,
+		"lat": 22.61127,
+		"lng": 88.38687
+	},
+	{
+		"sl": 170,
+		"place": "Kripanath Dutta Road",
+		"jf": 6.11822,
+		"lat": 22.61182,
+		"lng": 88.37477
+	},
+	{
+		"sl": 171,
+		"place": "Dhankal More",
+		"jf": 2.42123,
+		"lat": 22.69422,
+		"lng": 88.37529
+	}
+]

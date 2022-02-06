@@ -1,0 +1,14 @@
+.my-card-container {
+	max-width: 60vw;
+	background-color: #5260ff;
+	display: flex;
+	flex-direction: row-reverse;
+	margin: 10px;
+	margin-top: 15px;
+	border-radius: 15px 15px 0px 15px;
+}
+.my-card-container p {
+	font-size: larger;
+	max-width: 25vw;
+	word-wrap: break-word;
+}
