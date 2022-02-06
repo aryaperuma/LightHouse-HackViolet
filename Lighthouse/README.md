@@ -1,4 +1,4 @@
-# WOMEN-SAFETY-Wayfer
+# Lighthouse
 
 
 ### Web app
