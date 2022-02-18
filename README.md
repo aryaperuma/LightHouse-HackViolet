@@ -1,7 +1,9 @@
-LightHouse - HackViolet 2022
-(Best Hack to Support Women - 1st Place)
+# LightHouse - HackViolet 2022
+## (Best Hack to Support Women - 1st Place)
 
 Devpost link: https://devpost.com/software/lighthouse-pz2tkj
+
+
 Figma link: https://www.figma.com/file/J3bCpM2bWkDjye8IhJvtIv/LightHouse?node-id=2%3A200
 
 <img src="applogo.png" width="200">
