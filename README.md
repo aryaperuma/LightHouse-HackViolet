@@ -1,10 +1,13 @@
-# LightHouse - HackViolet 2022
-## (Best Hack to Support Women - 1st Place)
+# LightHouse
 
-Devpost link: https://devpost.com/software/lighthouse-pz2tkj
+## :star2: 1st Place in Best Hack to Support Women - Built for HackViolet 2022 :star2:
 
 
-Figma link: https://www.figma.com/file/J3bCpM2bWkDjye8IhJvtIv/LightHouse?node-id=2%3A200
+Devpost Link: https://devpost.com/software/lighthouse-pz2tkj
+
+Demo Link: https://www.youtube.com/watch?v=4qhc0ZxM0v4&t=5s
+
+Figma Link: https://www.figma.com/file/J3bCpM2bWkDjye8IhJvtIv/LightHouse?node-id=2%3A200
 
 <img src="applogo.png" width="200">
 
@@ -28,3 +31,9 @@ Some of the platforms that we used were new to some people so there was a learni
 
 ## What's Next for Lighthouse?
 Our design at the moment is simple (white and purple for _HackVIOLET_), but we want to take the time to create a more cohesive and aesthetic theme for our app. In terms of additional features, users should be given the option to access ride-booking apps such as Uber or Lyft straight from the app if they cannot find a suitable route that is safe enough. Since security can always be improved, although we plan to implement Google sign-in in our app, we need a secure way to store the contact information and addresses that the user provides. 
+
+
+<img width="667" alt="Logo with Name" src="https://user-images.githubusercontent.com/64074709/158320983-28473232-24e3-45f5-97b9-d4dca11aafc0.png">
+
+<img width="677" alt="Screenshot 2022-03-15 at 12 04 25 PM" src="https://user-images.githubusercontent.com/64074709/158321048-ee1b030b-6532-48c8-84ac-b261fffdd66f.png">
+
