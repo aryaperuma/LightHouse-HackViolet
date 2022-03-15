@@ -3,13 +3,13 @@
 ## :star2: 1st Place in Best Hack to Support Women - Built for HackViolet 2022 :star2:
 
 
-Devpost Link: https://devpost.com/software/lighthouse-pz2tkj
+### Devpost Link: https://devpost.com/software/lighthouse-pz2tkj
 
-Demo Link: https://www.youtube.com/watch?v=4qhc0ZxM0v4&t=5s
+### Demo Link: https://www.youtube.com/watch?v=4qhc0ZxM0v4&t=5s
 
-Figma Link: https://www.figma.com/file/J3bCpM2bWkDjye8IhJvtIv/LightHouse?node-id=2%3A200
+### Figma Link: https://www.figma.com/file/J3bCpM2bWkDjye8IhJvtIv/LightHouse?node-id=2%3A200
 
-<img src="applogo.png" width="200">
+<img src="applogo.png" width="250">
 
 ## Inspiration
 We have always been taught that **safety is the number one priority**. As we grow up and travel to different destinations, we may find ourselves in a situation where we have to travel at night but we don't feel safe. Although Google Maps shows users the quickest way to their destination, it isn’t always necessarily the safest way. That is where LIGHTHOUSE would come in handy! We want to provide a convenient and user-friendly application that guides users to their destinations with the safest and most well-lit route possible. 
