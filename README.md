@@ -7,8 +7,6 @@
 
 ### Demo Link: https://www.youtube.com/watch?v=4qhc0ZxM0v4&t=5s
 
-### Figma Link: https://www.figma.com/file/J3bCpM2bWkDjye8IhJvtIv/LightHouse?node-id=2%3A200
-
 <img src="applogo.png" width="300">
 
 ### Lighthouse is an app that helps to light your way and get you home safe!
